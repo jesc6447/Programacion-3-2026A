@@ -6,7 +6,6 @@ cadena2 = "{ [ ( 2 + 2 ) * 5 ] / 10 } "
 cadena3 = "((((3+4) - (16+2))+(11-3*[4/2]))"
 cadena4 = "{[(4 -2) + (4-1[3-1})"
 cadena5 = "5+(2*4)-8"
-
 cadenaprueba = "{(})"
 
 def verificar_parentesis(cadena):
